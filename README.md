@@ -46,7 +46,6 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
   width="45px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg"
-  class="devicon-pandas-plain-wordmark"
 />
 <img
   align="left"
