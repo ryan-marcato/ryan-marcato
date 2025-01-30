@@ -9,16 +9,16 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
 ## Linguagens e Tecnologias
 <img
   align="left"
-  alt="python"
-  title="python"
+  alt="linux"
+  title="linux"
   width="35px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
 <img
   align="left"
-  alt="python"
-  title="python"
+  alt="anaconda"
+  title="anaconda"
   width="45px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg"
@@ -33,56 +33,56 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
 />
 <img
   align="left"
-  alt="python"
-  title="python"
+  alt="jupyter"
+  title="jupyter"
   width="45px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
 />
 <img
   align="left"
-  alt="python"
-  title="python"
+  alt="pandas"
+  title="pandas"
   width="45px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg"
 />
 <img
   align="left"
-  alt="python"
-  title="python"
+  alt="matplotlib"
+  title="matplotlib"
   width="45px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"
 />
 <img
   align="left"
-  alt="python"
-  title="python"
+  alt="scikitlearn"
+  title="scikitlearn"
   width="45px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
 />
 <img
   align="left"
-  alt="python"
-  title="python"
+  alt="pytorch"
+  title="pytorch"
   width="45px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg"
 />
 <img
   align="left"
-  alt="python"
-  title="python"
+  alt="sqlalchemy"
+  title="sqlalchemy"
   width="45px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"
 />
 <img
   align="left"
-  alt="python"
-  title="python"
+  alt="mysql"
+  title="mysql"
   width="45px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
