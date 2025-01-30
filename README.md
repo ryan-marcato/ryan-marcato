@@ -49,6 +49,14 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
 />
 <img
   align="left"
+  alt="numpy"
+  title="numpy"
+  width="45px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"
+/>
+<img
+  align="left"
   alt="matplotlib"
   title="matplotlib"
   width="45px"
