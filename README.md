@@ -17,6 +17,14 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
 />
 <img
   align="left"
+  alt="git"
+  title="git"
+  width="35px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img
+  align="left"
   alt="anaconda"
   title="anaconda"
   width="45px"
