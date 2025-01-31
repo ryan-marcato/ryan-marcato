@@ -103,4 +103,11 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
-
+<img
+  align="left"
+  alt="postgresql"
+  title="postgresql"
+  width="45px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
