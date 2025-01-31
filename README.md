@@ -11,7 +11,7 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
   align="left"
   alt="linux"
   title="linux"
-  width="35px"
+  width="38px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
@@ -19,7 +19,7 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
   align="left"
   alt="git"
   title="git"
-  width="35px"
+  width="38px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
@@ -27,7 +27,7 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
   align="left"
   alt="anaconda"
   title="anaconda"
-  width="35px"
+  width="38px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg"
 />
@@ -35,7 +35,7 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
   align="left"
   alt="python"
   title="python"
-  width="35px"
+  width="38px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
@@ -43,7 +43,7 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
   align="left"
   alt="jupyter"
   title="jupyter"
-  width="35px"
+  width="38px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
 />
@@ -51,7 +51,7 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
   align="left"
   alt="pandas"
   title="pandas"
-  width="35px"
+  width="38px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg"
 />
@@ -59,7 +59,7 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
   align="left"
   alt="numpy"
   title="numpy"
-  width="35px"
+  width="38px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"
 />
@@ -67,7 +67,7 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
   align="left"
   alt="matplotlib"
   title="matplotlib"
-  width="35px"
+  width="38px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"
 />
@@ -75,7 +75,7 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
   align="left"
   alt="scikitlearn"
   title="scikitlearn"
-  width="35px"
+  width="38px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
 />
@@ -83,7 +83,7 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
   align="left"
   alt="pytorch"
   title="pytorch"
-  width="35px"
+  width="38px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg"
 />
@@ -91,7 +91,7 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
   align="left"
   alt="sqlalchemy"
   title="sqlalchemy"
-  width="35px"
+  width="38px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"
 />
@@ -99,7 +99,7 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
   align="left"
   alt="mysql"
   title="mysql"
-  width="35px"
+  width="38px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
@@ -107,7 +107,7 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
   align="left"
   alt="postgresql"
   title="postgresql"
-  width="35px"
+  width="38px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
