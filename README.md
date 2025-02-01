@@ -83,7 +83,7 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
   align="left"
   alt="pytorch"
   title="pytorch"
-  width="38px"
+  width="45px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg"
 />
@@ -91,7 +91,7 @@ Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso 
   align="left"
   alt="sqlalchemy"
   title="sqlalchemy"
-  width="38px"
+  width="45px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"
 />
