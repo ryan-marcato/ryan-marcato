@@ -1,6 +1,6 @@
 # Ryan Marcato 
 
-**`Cientista de Dados`**
+**`Ciencia de Dados`**
 
 Meu nome é Ryan Henrique Escandelari Marcato, tenho 20 anos e atualmente curso Engenharia da Computação na UTFPR de Apucarana. Meu foco de estudos está na área de dados, com ênfase em Engenharia de Dados e Ciência de Dados. Busco desenvolver projetos pessoais para aprimorar meus conhecimentos em frameworks e bibliotecas relacionadas ao setor. No momento, estou em busca de uma oportunidade de estágio na área.
 
